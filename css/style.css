@@ -1,0 +1,13 @@
+.animationDiv{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+button{
+    margin-bottom: 50px;
+}
+
+h2{
+    font-size: 16px;
+}
